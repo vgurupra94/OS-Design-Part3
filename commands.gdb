@@ -1,0 +1,10 @@
+source /home/ee450/Desktop/XYZ/kernel/main/gdt.gdb
+source /home/ee450/Desktop/XYZ/kernel/mm/pagetable.gdb
+source /home/ee450/Desktop/XYZ/kernel/mm/page.py
+source /home/ee450/Desktop/XYZ/kernel/mm/memcheck.py
+source /home/ee450/Desktop/XYZ/kernel/mm/slab.py
+source /home/ee450/Desktop/XYZ/kernel/proc/kthread.gdb
+source /home/ee450/Desktop/XYZ/kernel/proc/proc.py
+source /home/ee450/Desktop/XYZ/kernel/util/debug.py
+source /home/ee450/Desktop/XYZ/kernel/util/list.py
+source /home/ee450/Desktop/XYZ/kernel/vm/vmmap.gdb
